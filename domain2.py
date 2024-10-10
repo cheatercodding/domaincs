@@ -1,5 +1,4 @@
 
-
 import csv
 
 # CSV dosyasının yolu
